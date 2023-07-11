@@ -1,7 +1,9 @@
-<h1> Hey there 👋🏻, I'm Subhajit Barman</h1>
+<h1>
+Hey there 👋🏻, I'm Subhajit Barman
+</h1>
 <h3>A passionate frontend developer and contributor from India</h3>
 <br>
-<img src="https://i.gifer.com/embedded/download/5eKX.gif">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 # 💫 About Me:
