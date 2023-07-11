@@ -1,5 +1,5 @@
 <h1>
-Hey there 👋🏻, I'm Subhajit Barman
+Hi👋🏻, I'm Subhajit Barman
 </h1>
 <h3>A passionate frontend developer and contributor from India</h3>
 <br>
