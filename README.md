@@ -7,7 +7,7 @@ Hi👋🏻, I'm Subhajit Barman
 
 
 # 💫 About Me:
-🔭 I’m currently studying Computer Science and Engineering from JGEC, India<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Bootstrap, React, JavaScript<br>💬 Ask me about Competitive Programming Questions<br>⚡ Fun fact I think that I am too handsome
+🔭 I’m currently studying Computer Science and Engineering from JGEC, India<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next JS, React, Node JS, MongoDB<br>💬 Ask me about Competitive Programming Questions<br>⚡ Fun fact I think that I am too handsome
 
 ![](https://i.gifer.com/embedded/download/5eKX.gif)
 ## 🌐 Socials:
