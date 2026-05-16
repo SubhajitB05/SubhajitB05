@@ -1,13 +1,13 @@
 <h1>
 Hi👋🏻, I'm Subhajit Barman
 </h1>
-<h3>A passionate frontend developer and contributor from India</h3>
+<h3>A passionate full stack developer in MERN stack and .NET technology and contributor from India</h3>
 <br>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 # 💫 About Me:
-🔭 I’m currently studying Computer Science and Engineering from JGEC, India<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next JS, React, Node JS, MongoDB<br>💬 Ask me about Competitive Programming Questions<br>⚡ Fun fact I think that I am too handsome
+🔭 I’m a graduate in Computer Science and Engineering from JGEC, India<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next JS, Azure <br>💬 Ask me about Competitive Programming Questions<br>⚡ Fun fact I think that I am too handsome
 
 ![](https://i.gifer.com/embedded/download/5eKX.gif)
 ## 🌐 Socials:
